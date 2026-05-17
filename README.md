@@ -64,7 +64,7 @@ Features:
 
 ## Tokenomics
 
-- Protocol Fee: 2.00%
+- Protocol Fee: 7.5%
 - Treasury Allocation: 25% of fees
 - Reward Reserve: 75% of fees
 - Early Withdrawal Penalty: up to 15%
